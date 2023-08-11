@@ -17,5 +17,6 @@ vim.opt.updatetime = 50
 vim.opt.hlsearch = false
 vim.opt.incsearch = true
 
-
-
+-- Spell check
+vim.opt.spelllang = 'en_us'
+vim.opt.spell = true
