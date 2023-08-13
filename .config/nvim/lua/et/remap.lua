@@ -7,3 +7,4 @@ vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 vim.keymap.set("x", "<leader>p", [["_dP]]) -- paste without 
 vim.keymap.set("n", "Q", "<nop>")
 
+vim.keymap.set("n", "<leader>sc", ":set spell") -- paste without 
